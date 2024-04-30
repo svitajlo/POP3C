@@ -1,0 +1,14 @@
+C:\Users\svita\source\repos\POP3C#\POP3C#\bin\Debug\net8.0\POP3C#.exe
+C:\Users\svita\source\repos\POP3C#\POP3C#\bin\Debug\net8.0\POP3C#.deps.json
+C:\Users\svita\source\repos\POP3C#\POP3C#\bin\Debug\net8.0\POP3C#.runtimeconfig.json
+C:\Users\svita\source\repos\POP3C#\POP3C#\bin\Debug\net8.0\POP3C#.dll
+C:\Users\svita\source\repos\POP3C#\POP3C#\bin\Debug\net8.0\POP3C#.pdb
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.AssemblyInfoInputs.cache
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.AssemblyInfo.cs
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.csproj.CoreCompileInputs.cache
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.dll
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\refint\POP3C#.dll
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.pdb
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\POP3C#.genruntimeconfig.cache
+C:\Users\svita\source\repos\POP3C#\POP3C#\obj\Debug\net8.0\ref\POP3C#.dll
